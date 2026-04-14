@@ -107,3 +107,4 @@
 - 01:35 AM IST: Wrote down a few notes about my experiences with the hand-gestures project and organizing Tech Carnival 2K26, realizing that the most useful tools are the ones people can adopt without friction, which is guiding my next steps to turn a rough idea into something testable.
 - 11:35 PM IST: Captured progress around making security tooling practical for real users, and I see that thread remaining strong throughout my work on projects like hand-gestures and my experience as a cybersecurity intern.
 - 10:35 PM IST: Checked back in on my projects and I keep coming back to simplicity, speed, and trust, realizing that developer tools become credible when the defaults are safe, so I'll keep the scope practical and focus on real-world use.
+- 09:35 PM IST: Spent time reflecting on my work with GitReverse and I'm reminded that good product framing keeps security work from becoming noise, so I'll write the next small improvement before adding new surface area.
