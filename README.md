@@ -14,6 +14,7 @@ This repository uses a GitHub Actions workflow to create automated daily commits
 - GitHub Actions cron time: `18:35 UTC` on the previous UTC day
 
 The workflow uses UTC internally because GitHub Actions cron expressions always run in UTC.
+Commit timestamps are explicitly authored in `Asia/Kolkata` so the contribution graph lines up with the IST calendar day.
 
 ## Files
 - Workflow: `.github/workflows/auto-streak-keeper.yml`
@@ -72,4 +73,5 @@ After a successful run:
 - GitHub may delay scheduled workflows slightly during heavy load.
 - The workflow stays self-contained and does not depend on third-party marketplace actions for the commit logic.
 - Manual runs can use higher counts up to `800`, but automatic runs will never exceed `200`.
+- The workflow sets explicit IST commit timestamps, so new runs should count toward the intended India date instead of the previous UTC day.
 - If a manual run fails immediately, check that `COMMIT_USER_EMAIL` exists and workflow permissions are set to `Read and write`.

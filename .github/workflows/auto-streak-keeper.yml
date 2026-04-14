@@ -40,6 +40,7 @@ jobs:
           MANUAL_MAX_COMMITS: 800
           BRANCH_NAME: main
           INPUT_COMMIT_COUNT: ${{ github.event.inputs.commit_count }}
+          COMMIT_TIMEZONE: Asia/Kolkata
         run: |
           set -euo pipefail
 
@@ -55,11 +56,13 @@ jobs:
 
           mkdir -p "$(dirname "$FILE_PATH")"
           touch "$FILE_PATH"
+          commit_day=$(TZ="$COMMIT_TIMEZONE" date +%F)
 
           for ((i=1; i<=commit_count; i++)); do
-            printf '%s commit-%02d of %02d\n' "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$i" "$commit_count" >> "$FILE_PATH"
+            commit_time=$(TZ="$COMMIT_TIMEZONE" date -d "$commit_day 00:05:00 +$((i - 1)) seconds" '+%Y-%m-%dT%H:%M:%S%z')
+            printf '%s commit-%02d of %02d\n' "$commit_time" "$i" "$commit_count" >> "$FILE_PATH"
             git add "$FILE_PATH"
-            git commit -m "Daily streak maintenance"
+            GIT_AUTHOR_DATE="$commit_time" GIT_COMMITTER_DATE="$commit_time" git commit -m "Daily streak maintenance"
           done
 
           git push origin "$BRANCH_NAME"
