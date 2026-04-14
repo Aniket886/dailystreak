@@ -23,3 +23,4 @@
 - 08:35 PM IST: Building on india-cyber-guard, I aim to make privacy features integral to AI-assisted developer tooling, ensuring they feel normal and essential, not just add-ons.
 - 04:35 AM IST: With terralens, I'm focused on building practical tools that make the web harder to break, starting with clearer privacy defaults for a more secure digital foundation.
 - 12:35 AM IST: With terralens, I'm focusing on embedding security by design principles to make the web more resilient, one iteration at a time.
+- 08:35 PM IST: Simplifying investigation workflows with targeted checklists can help reduce security confusion for developers, aligning with my goal of building practical tools that strengthen the web.
