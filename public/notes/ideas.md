@@ -40,3 +40,4 @@
 - 05:35 PM IST: Building practical tools like FakeBusters helps make the web harder to break by designing investigation workflows that prioritize clearer privacy defaults.
 - 01:35 PM IST: Building tools like FakeBusters shows me that streamlining investigation workflows is key to making security more accessible and trustworthy.
 - 04:35 AM IST: Simplifying security tools like the Data Wiping Tool helps bridge web development and digital security, making it easier to protect the web.
+- 12:35 AM IST: Making security intuitive is key, so I'm focusing on building tools that seamlessly integrate privacy features into everyday developer workflows, as seen in projects like the Tech Carnival 2K26 Website.
