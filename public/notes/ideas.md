@@ -44,3 +44,4 @@
 - 08:35 PM IST: Turning investigation habits into developer-facing checklists can help create more secure web applications, a goal that aligns with making the web harder to break.
 - 04:35 PM IST: Building tools like FakeBusters helps me learn how to simplify security and ship solutions that people trust, making the web a safer place.
 - 05:35 AM IST: Building ArcMotion's hand-gestures with secure-by-design engineering in mind can help create a more resilient web by integrating spatial interaction and gesture tracking with a security-first approach.
+- 01:35 AM IST: Streamlining OSINT workflows with tools like GitReverse helps achieve the goal of making security tooling intuitive and clutter-free.
