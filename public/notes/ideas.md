@@ -37,3 +37,4 @@
 - 05:35 AM IST: Focusing on secure by design principles in projects like india-cyber-guard can help create a developer-facing checklist to prioritize privacy-focused product design.
 - 01:35 AM IST: Building tools like the Tech Carnival 2K26 Website with robust security features helps make digital safety feel normal and accessible to everyone.
 - 09:35 PM IST: Transforming my investigation habit into a developer-friendly checklist is a key step towards building practical tools that strengthen web security fundamentals.
+- 05:35 PM IST: Building practical tools like FakeBusters helps make the web harder to break by designing investigation workflows that prioritize clearer privacy defaults.
