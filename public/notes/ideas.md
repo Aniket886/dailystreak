@@ -20,3 +20,4 @@
 - 11:35 PM IST: Privacy features should feel normal, not optional.
 - 04:35 AM IST: Simplifying OSINT workflows with tools like GitReverse helps me bridge web development and digital security by making complex projects more explainable and secure.
 - 12:35 AM IST: Building tools like the Data Wiping Tool helps me connect the dots between learning, shipping, and trust in privacy-focused product design.
+- 08:35 PM IST: Building on india-cyber-guard, I aim to make privacy features integral to AI-assisted developer tooling, ensuring they feel normal and essential, not just add-ons.
