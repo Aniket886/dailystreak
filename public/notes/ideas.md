@@ -50,3 +50,4 @@
 - 01:35 PM IST: Building on MetaClean's success, I'm exploring how to turn my investigative habits into developer-facing checklists to further bridge web development and digital security.
 - 09:35 AM IST: Turning investigation habits into developer-facing checklists is key to making tools like GitReverse effective in bridging web development with digital security.
 - 05:35 AM IST: Capturing the build logic of terralens upfront ensures a secure by design approach, setting a strong foundation for our privacy-focused product.
+- 03:35 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
