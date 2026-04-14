@@ -15,3 +15,4 @@
 - 05:35 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
 - 04:35 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about OSINT workflows
 - 03:35 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:35 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and AI tooling is most useful when it reduces noise instead of adding it.
