@@ -29,3 +29,4 @@
 - 07:35 PM IST: Building terralens with a secure by design mindset helps capture the essence of OSINT workflows before implementation complexities set in.
 - 03:35 PM IST: Building tools like the Data Wiping Tool helps bridge web development with digital security, making the web harder to break one practical solution at a time.
 - 11:35 AM IST: Simplifying security tooling is key to making the web harder to break, as seen in the Tech Carnival 2K26 Website project where intuitive design reduced user confusion.
+- 04:35 AM IST: Simplifying OSINT workflows starts with tools like MetaClean that prioritize clear privacy defaults and transparent metadata removal.
