@@ -55,3 +55,4 @@
 - 07:35 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: digital forensics
 - 03:35 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 11:35 AM IST: Good investigation notes are part of the product.
+- 02:35 AM IST: Security tooling should reduce confusion, not create more of it.
