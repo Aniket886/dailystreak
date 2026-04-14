@@ -8,6 +8,7 @@ Personal notes repository for `@Aniket886` with an automated daily update workfl
 - Uses only repo-local shell logic plus first-party GitHub Actions
 - Supports manual runs from the Actions tab
 - Supports an optional manual `commit_count` override from `10` to `800`
+- Uses Groq to write fresh quotes and project reflections when `GROQ_API_KEY` is configured
 - Writes believable notes to a rolling journal and ideas file instead of generic counter lines
 - Uses only approved factual details about projects, learning themes, roles, and achievements
 
@@ -50,6 +51,7 @@ This is required because the workflow commits and pushes back to `main`.
 | Secret | Value |
 |--------|-------|
 | `COMMIT_USER_EMAIL` | The email address you want on the automated commits |
+| `GROQ_API_KEY` | Groq API key used to generate fresh quotes and project reflections |
 
 Use the same email address that should appear in your GitHub commit history.
 
@@ -67,7 +69,7 @@ Use the same email address that should appear in your GitHub commit history.
 
 ## Expected Result
 After a successful run:
-- The workflow appends a factual reflection to `public/notes/journal.md` or `public/notes/ideas.md`
+- The workflow appends a fresh AI-written factual reflection to `public/notes/journal.md` or `public/notes/ideas.md`
 - GitHub creates multiple commits on `main`
 - The commit author is `Aniket886` with the email from `COMMIT_USER_EMAIL`
 - Future scheduled runs happen automatically every day at `00:05 IST` with a random count from `10` to `50`
@@ -78,4 +80,5 @@ After a successful run:
 - Manual runs can use higher counts up to `800`, but automatic runs will never exceed `50`.
 - The workflow sets explicit IST commit timestamps, so new runs should count toward the intended India date instead of the previous UTC day.
 - Generated content is limited to approved facts and avoids sensitive details such as email, direct contact info, and raw analytics.
+- If Groq is unavailable or the API call fails, the workflow falls back to the local factual template generator.
 - If a manual run fails immediately, check that `COMMIT_USER_EMAIL` exists and workflow permissions are set to `Read and write`.
