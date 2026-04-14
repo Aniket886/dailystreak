@@ -57,3 +57,4 @@
 - 11:35 AM IST: Good investigation notes are part of the product.
 - 02:35 AM IST: Security tooling should reduce confusion, not create more of it.
 - 10:35 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
+- 06:35 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: terralens: an active TypeScript product iteration from April 2026.
