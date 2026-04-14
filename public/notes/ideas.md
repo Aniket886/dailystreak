@@ -25,3 +25,4 @@
 - 12:35 AM IST: With terralens, I'm focusing on embedding security by design principles to make the web more resilient, one iteration at a time.
 - 08:35 PM IST: Simplifying investigation workflows with targeted checklists can help reduce security confusion for developers, aligning with my goal of building practical tools that strengthen the web.
 - 03:35 AM IST: Building a Data Wiping Tool as a live project helps me capture the nuances of web development and digital security, making investigation notes an integral part of the product to ensure a privacy-focused design.
+- 11:35 PM IST: Building tools like GitReverse helps bridge the gap between web development and digital security, simplifying security insights to make the web a more trustworthy space.
