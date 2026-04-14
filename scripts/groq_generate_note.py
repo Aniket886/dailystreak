@@ -2,15 +2,17 @@
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 
 
 def main() -> int:
     api_key = os.environ.get("GROQ_API_KEY", "").strip()
-    model = os.environ.get("GROQ_MODEL", "llama-3.1-8b-instant").strip()
+    model = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile").strip()
     prompt = sys.stdin.read().strip()
 
     if not api_key or not prompt:
+        print("Groq request skipped: missing API key or prompt.", file=sys.stderr)
         return 1
 
     payload = {
@@ -41,12 +43,32 @@ def main() -> int:
         method="POST",
     )
 
-    with urllib.request.urlopen(req, timeout=45) as response:
-        body = json.loads(response.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(req, timeout=45) as response:
+            body = json.loads(response.read().decode("utf-8"))
+    except urllib.error.HTTPError as exc:
+        error_body = exc.read().decode("utf-8", errors="replace").strip()
+        print(f"Groq HTTP error {exc.code}: {error_body}", file=sys.stderr)
+        return 1
+    except urllib.error.URLError as exc:
+        print(f"Groq network error: {exc.reason}", file=sys.stderr)
+        return 1
+    except TimeoutError:
+        print("Groq timeout error: request timed out.", file=sys.stderr)
+        return 1
+    except json.JSONDecodeError as exc:
+        print(f"Groq response parse error: {exc}", file=sys.stderr)
+        return 1
 
-    content = body["choices"][0]["message"]["content"].strip()
+    try:
+        content = body["choices"][0]["message"]["content"].strip()
+    except (KeyError, IndexError, TypeError) as exc:
+        print(f"Groq response shape error: {exc}", file=sys.stderr)
+        return 1
+
     content = " ".join(content.split())
     if not content:
+        print("Groq returned empty content.", file=sys.stderr)
         return 1
 
     print(content)

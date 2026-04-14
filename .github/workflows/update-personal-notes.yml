@@ -37,7 +37,7 @@ jobs:
           NOTE_FILE: public/notes/journal.md
           IDEA_FILE: public/notes/ideas.md
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GROQ_MODEL: llama-3.1-8b-instant
+          GROQ_MODEL: llama-3.3-70b-versatile
           MIN_COMMITS: 10
           AUTO_MAX_COMMITS: 50
           MANUAL_MAX_COMMITS: 800

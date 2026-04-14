@@ -8,7 +8,7 @@ Personal notes repository for `@Aniket886` with an automated daily update workfl
 - Uses only repo-local shell logic plus first-party GitHub Actions
 - Supports manual runs from the Actions tab
 - Supports an optional manual `commit_count` override from `10` to `800`
-- Uses Groq to write fresh quotes and project reflections when `GROQ_API_KEY` is configured
+- Uses Groq `llama-3.3-70b-versatile` to write fresh quotes and project reflections when `GROQ_API_KEY` is configured
 - Writes believable notes to a rolling journal and ideas file instead of generic counter lines
 - Uses only approved factual details about projects, learning themes, roles, and achievements
 
@@ -80,5 +80,5 @@ After a successful run:
 - Manual runs can use higher counts up to `800`, but automatic runs will never exceed `50`.
 - The workflow sets explicit IST commit timestamps, so new runs should count toward the intended India date instead of the previous UTC day.
 - Generated content is limited to approved facts and avoids sensitive details such as email, direct contact info, and raw analytics.
-- If Groq is unavailable or the API call fails, the workflow falls back to the local factual template generator.
+- If Groq is unavailable or the API call fails, the workflow logs the exact reason in Actions and falls back to the local factual template generator.
 - If a manual run fails immediately, check that `COMMIT_USER_EMAIL` exists and workflow permissions are set to `Read and write`.

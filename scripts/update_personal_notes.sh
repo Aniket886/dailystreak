@@ -11,7 +11,7 @@ COMMIT_TIMEZONE="${COMMIT_TIMEZONE:?}"
 COMMIT_INDEX="${COMMIT_INDEX:?}"
 RUN_SEED="${RUN_SEED:?}"
 GROQ_API_KEY="${GROQ_API_KEY:-}"
-GROQ_MODEL="${GROQ_MODEL:-llama-3.1-8b-instant}"
+GROQ_MODEL="${GROQ_MODEL:-llama-3.3-70b-versatile}"
 
 pick() {
   local name="$1"
@@ -86,9 +86,11 @@ EOF
 
 generate_ai_line() {
   local target="$1"
-  local prompt
+  local prompt ai_output status
+  local target_label="$target"
 
   if [ -z "$GROQ_API_KEY" ]; then
+    echo "Groq skipped for ${target_label}: missing GROQ_API_KEY." >&2
     return 1
   fi
 
@@ -98,7 +100,24 @@ generate_ai_line() {
     prompt="$(build_idea_prompt)"
   fi
 
-  printf '%s\n' "$prompt" | GROQ_API_KEY="$GROQ_API_KEY" GROQ_MODEL="$GROQ_MODEL" python3 "$ROOT_DIR/scripts/groq_generate_note.py" 2>/dev/null
+  set +e
+  ai_output="$(printf '%s\n' "$prompt" | GROQ_API_KEY="$GROQ_API_KEY" GROQ_MODEL="$GROQ_MODEL" python3 "$ROOT_DIR/scripts/groq_generate_note.py" 2>&1)"
+  status=$?
+  set -e
+
+  if [ $status -ne 0 ]; then
+    echo "Groq generation failed for ${target_label}: $ai_output" >&2
+    return 1
+  fi
+
+  ai_output="$(printf '%s' "$ai_output" | tr '\r\n' ' ' | sed 's/[[:space:]]\+/ /g; s/^ //; s/ $//')"
+  if [ -z "$ai_output" ]; then
+    echo "Groq generation failed for ${target_label}: empty output." >&2
+    return 1
+  fi
+
+  echo "Groq generation succeeded for ${target_label} with model ${GROQ_MODEL}." >&2
+  printf '%s\n' "$ai_output"
 }
 
 append_journal_entry() {
