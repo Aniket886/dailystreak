@@ -18,3 +18,4 @@
 - 09:35 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 03:35 AM IST: Working line: Secure by design beats secure by patch. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 11:35 PM IST: Privacy features should feel normal, not optional.
+- 04:35 AM IST: Simplifying OSINT workflows with tools like GitReverse helps me bridge web development and digital security by making complex projects more explainable and secure.
