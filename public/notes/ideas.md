@@ -16,3 +16,4 @@
 - 05:35 AM IST: Secure by design beats secure by patch.
 - 01:35 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: privacy-focused product design
 - 09:35 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 03:35 AM IST: Working line: Secure by design beats secure by patch. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
