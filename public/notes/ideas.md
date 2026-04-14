@@ -46,3 +46,4 @@
 - 05:35 AM IST: Building ArcMotion's hand-gestures with secure-by-design engineering in mind can help create a more resilient web by integrating spatial interaction and gesture tracking with a security-first approach.
 - 01:35 AM IST: Streamlining OSINT workflows with tools like GitReverse helps achieve the goal of making security tooling intuitive and clutter-free.
 - 09:35 PM IST: As I worked on the Tech Carnival 2K26 Website, I realized that prioritizing secure by design principles from the start is key to making privacy defaults clearer and protecting user data.
+- 05:35 PM IST: Building tools like the Data Wiping Tool helps bridge web development with digital security, reinforcing that good investigation notes are crucial to creating a more secure web.
