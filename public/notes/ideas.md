@@ -52,3 +52,4 @@
 - 05:35 AM IST: Capturing the build logic of terralens upfront ensures a secure by design approach, setting a strong foundation for our privacy-focused product.
 - 03:35 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 11:35 PM IST: Build practical tools that make the web harder to break.
+- 07:35 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: digital forensics
