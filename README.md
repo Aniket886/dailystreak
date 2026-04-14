@@ -1,48 +1,80 @@
-# personal-notes
+<div align="center">
 
-Personal notes repository for `@Aniket886` with an automated GitHub Actions workflow that writes factual journal entries and idea lines to the repo every day.
+# 📓 personal-notes
 
-The project started as a simple auto-commit repo, but it was intentionally reshaped into something that looks and behaves more like a real personal notes workspace. Instead of appending obvious counter lines such as `commit-01 of 10`, the workflow now writes short reflections, project notes, and quote-style ideas based on approved profile facts.
+<p>Personal notes repository for <a href="https://github.com/Aniket886"><code>@Aniket886</code></a> — powered by an automated GitHub Actions workflow that writes factual journal entries and idea lines to this repo every day.</p>
 
-## Overview
+![GitHub last commit](https://img.shields.io/github/last-commit/Aniket886/personal-notes?style=flat-square&color=6e40c9)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Aniket886/personal-notes?style=flat-square&color=238636)
+![Workflow](https://img.shields.io/badge/workflow-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Groq%20%7C%20llama--3.3--70b-orange?style=flat-square&logo=lightning&logoColor=white)
+![Timezone](https://img.shields.io/badge/timezone-IST%20%28Asia%2FKolkata%29-blue?style=flat-square)
+
+</div>
+
+---
+
+> The project started as a simple auto-commit repo, but was intentionally reshaped into something that looks and behaves more like a real personal notes workspace. Instead of appending obvious counter lines such as `commit-01 of 10`, the workflow now writes short reflections, project notes, and quote-style ideas based on approved profile facts.
+
+---
+
+## 📋 Overview
 
 This repository does four things:
 
-1. Schedules a daily workflow run at `00:05 IST`
-2. Chooses how many commits to create for that run
-3. Generates note content for each commit
-4. Commits those note updates back to `main`
+| # | Action |
+|---|--------|
+| 1 | Schedules a daily workflow run at `00:05 IST` |
+| 2 | Chooses how many commits to create for that run |
+| 3 | Generates note content for each commit |
+| 4 | Commits those note updates back to `main` |
 
 The goal is to keep the repository activity looking like a believable personal workspace instead of a mechanical streak bot.
 
-## Current Behavior
+---
 
-### Automatic daily run
+## ⚙️ Current Behavior
+
+### 🔄 Automatic daily run
 - Runs every day at `00:05 IST`
 - Uses GitHub cron `35 18 * * *` because GitHub Actions schedules are stored in UTC
 - Chooses a random number of commits between `10` and `50`
 
-### Manual run
+### 🖐️ Manual run
 - Triggered from the `Actions` tab
 - Accepts an optional `commit_count`
 - Manual range is `10` to `800`
 - If you provide a value, that exact number is used
 
-### Content output
+### 📄 Content output
+
 Each commit writes one new line into one of these files:
 
-- `public/notes/journal.md`
-- `public/notes/ideas.md`
+| File | Purpose |
+|------|---------|
+| `public/notes/journal.md` | Short work-log reflections, project thoughts, and learning notes |
+| `public/notes/ideas.md` | Short quote-like lines, prompts, and project principles |
 
-The split is intentional:
+---
 
-- `journal.md` is for short work-log reflections, project thoughts, and learning notes
-- `ideas.md` is for short quote-like lines, prompts, and project principles
+## 🗂️ Repository Structure
 
-## Repository Structure
+```
+personal-notes/
+├── .github/
+│   ├── workflows/
+│   │   └── update-personal-notes.yml   # Main GitHub Actions workflow
+│   └── personal-notes-facts.sh         # Approved factual source
+├── scripts/
+│   ├── update_personal_notes.sh        # Main generator script
+│   └── groq_generate_note.py           # Groq AI client
+└── public/
+    └── notes/
+        ├── journal.md                  # Work-log reflections
+        └── ideas.md                    # Quote-style ideas
+```
 
-### Workflow
-- `.github/workflows/update-personal-notes.yml`
+### 🔧 Workflow — `.github/workflows/update-personal-notes.yml`
 
 This is the main GitHub Actions workflow. It:
 
@@ -53,8 +85,7 @@ This is the main GitHub Actions workflow. It:
 - generates one note per commit
 - commits and pushes each change
 
-### Approved factual source
-- `.github/personal-notes-facts.sh`
+### 📚 Approved factual source — `.github/personal-notes-facts.sh`
 
 This file contains the approved profile data used by the note generator. It includes:
 
@@ -66,10 +97,9 @@ This file contains the approved profile data used by the note generator. It incl
 - note prompt fragments
 - fallback commit message patterns
 
-This file is the “truth source” for note generation. Sensitive details such as raw analytics, direct contact information, and unrelated private data are intentionally excluded from generated output.
+> This file is the "truth source" for note generation. Sensitive details such as raw analytics, direct contact information, and unrelated private data are intentionally excluded from generated output.
 
-### Main generator
-- `scripts/update_personal_notes.sh`
+### 🛠️ Main generator — `scripts/update_personal_notes.sh`
 
 This shell script decides:
 
@@ -78,45 +108,39 @@ This shell script decides:
 - which factual context to include in prompts
 - what commit message to use
 
-### Groq client
-- `scripts/groq_generate_note.py`
+### 🤖 Groq client — `scripts/groq_generate_note.py`
 
-This Python script sends the request to Groq’s OpenAI-compatible chat completions endpoint and returns a single plain-text note line.
+This Python script sends the request to Groq's OpenAI-compatible chat completions endpoint and returns a single plain-text note line.
 
-### Output files
-- `public/notes/journal.md`
-- `public/notes/ideas.md`
+---
 
-These are the files that change on each workflow-generated commit.
+## 🧠 How AI Is Used
 
-## How AI Is Used
+AI is used only during content generation. The workflow passes `GROQ_API_KEY` and `GROQ_MODEL` to the generator. The shell script builds a short prompt using approved facts and sends it to Groq. The returned one-line response is then appended to one of the notes files.
 
-AI is used only during content generation.
-
-The workflow passes:
-
-- `GROQ_API_KEY`
-- `GROQ_MODEL`
-
-to the generator. The shell script builds a short prompt using approved facts and sends it to Groq. The returned one-line response is then appended to one of the notes files.
-
-Current default model:
-
-- `llama-3.3-70b-versatile`
+**Current default model:** `llama-3.3-70b-versatile`
 
 ### AI generation flow
-1. GitHub Actions starts the workflow
-2. The workflow picks the commit count
-3. For each commit:
-   - the workflow calculates an IST-aligned commit timestamp
-   - `update_personal_notes.sh` decides the target file
-   - the script builds a factual prompt
-   - the prompt is sent to `groq_generate_note.py`
-   - Groq returns one short reflection or idea
-   - the line is appended to `journal.md` or `ideas.md`
-   - git creates one commit
 
-## Fallback Behavior
+```
+GitHub Actions triggers workflow
+        │
+        ▼
+  Pick commit count
+        │
+        ▼
+  For each commit:
+    ├── Calculate IST-aligned timestamp
+    ├── Decide target file (journal.md or ideas.md)
+    ├── Build factual prompt
+    ├── Send to groq_generate_note.py
+    ├── Groq returns one short reflection or idea
+    └── Append line → git commit
+```
+
+---
+
+## 🛡️ Fallback Behavior
 
 If Groq is unavailable, rejected, misconfigured, or returns invalid output, the workflow does **not** fail immediately.
 
@@ -126,32 +150,27 @@ Instead:
 - the generator falls back to the local factual template system
 - commits still complete
 
-This keeps scheduled runs reliable even if the AI provider has temporary issues.
+> This keeps scheduled runs reliable even if the AI provider has temporary issues.
 
-## Commit Timing and Contribution Dates
+---
+
+## 🕐 Commit Timing and Contribution Dates
 
 This repository uses explicit IST commit timestamps.
 
-Why this matters:
-
+**Why this matters:**
 - GitHub Actions runs on UTC infrastructure
-- without explicit author/committer dates, commits near midnight IST were being counted on the previous day in the contribution graph
+- Without explicit author/committer dates, commits near midnight IST were being counted on the previous day in the contribution graph
 
-The workflow now sets:
+The workflow now sets `GIT_AUTHOR_DATE` and `GIT_COMMITTER_DATE` using `Asia/Kolkata` timestamps so the contribution graph aligns with the intended India date.
 
-- `GIT_AUTHOR_DATE`
-- `GIT_COMMITTER_DATE`
+---
 
-using `Asia/Kolkata` timestamps so the contribution graph aligns with the intended India date.
-
-## GitHub Setup
+## 🔑 GitHub Setup
 
 ### Required repository secrets
-Go to:
 
-- `Settings` -> `Secrets and variables` -> `Actions`
-
-Add these repository secrets:
+Go to `Settings` → `Secrets and variables` → `Actions` and add:
 
 | Secret | Purpose |
 |--------|---------|
@@ -159,22 +178,20 @@ Add these repository secrets:
 | `GROQ_API_KEY` | Groq API key for AI note generation |
 
 ### Required Actions permission
-Go to:
 
-- `Settings` -> `Actions` -> `General`
+Go to `Settings` → `Actions` → `General`
 
-Under **Workflow permissions**:
+Under **Workflow permissions**, select `Read and write permissions`.
 
-- select `Read and write permissions`
-
-Without that, the workflow cannot push commits back to `main`.
+> Without that, the workflow cannot push commits back to `main`.
 
 ### Workflow state
-In the `Actions` tab:
 
-- make sure `Update Personal Notes` is enabled
+In the `Actions` tab, make sure `Update Personal Notes` is enabled.
 
-## Manual Test Procedure
+---
+
+## 🧪 Manual Test Procedure
 
 To test the workflow manually:
 
@@ -185,13 +202,11 @@ To test the workflow manually:
 5. Optionally enter `commit_count`
 6. Start the run
 
-Recommended test count:
+**Recommended test count:** `10` — gives enough commits to check both `journal.md` and `ideas.md` without creating too much noise.
 
-- `10`
+---
 
-That gives enough commits to check both `journal.md` and `ideas.md` without creating too much noise.
-
-## Expected Result
+## ✅ Expected Result
 
 After a successful run:
 
@@ -201,115 +216,82 @@ After a successful run:
 - the Actions logs show whether Groq generation succeeded or whether fallback mode was used
 - scheduled runs continue automatically at `00:05 IST`
 
-## Issues We Hit and How They Were Solved
+---
 
-### 1. Generic spam lines looked fake
+## 🐛 Issues We Hit and How They Were Solved
 
-Original behavior:
+<details>
+<summary><strong>1. Generic spam lines looked fake</strong></summary>
 
-- the repo wrote lines like `2026-04-14T20:34:59Z commit-68 of 100`
+**Original behavior:** the repo wrote lines like `2026-04-14T20:34:59Z commit-68 of 100`
 
-Problem:
+**Problem:** looked obviously automated; didn't resemble a normal personal notes repository.
 
-- this looked obviously automated
-- it did not resemble a normal personal notes repository
+**Fix:** replaced the counter-line approach with `journal.md` and `ideas.md`; added a factual source file and content generator.
 
-Fix:
+</details>
 
-- replaced the counter-line approach with:
-  - `journal.md`
-  - `ideas.md`
-- added a factual source file and content generator
+<details>
+<summary><strong>2. Contribution graph counted commits on the wrong day</strong></summary>
 
-### 2. Contribution graph counted commits on the wrong day
+**Problem:** GitHub Actions runs on UTC-based infrastructure — commit dates were landing on the previous UTC day.
 
-Original behavior:
+**Fix:** explicitly set commit timestamps in `Asia/Kolkata`; used IST author/committer dates for each generated commit.
 
-- runs around midnight IST were being counted on the previous date in GitHub contributions
+</details>
 
-Problem:
+<details>
+<summary><strong>3. GitHub secret naming issue</strong></summary>
 
-- GitHub Actions runs on UTC-based infrastructure
-- commit dates were effectively landing on the previous UTC day
+**Problem:** GitHub blocks custom secret names beginning with `GITHUB_`.
 
-Fix:
+**Fix:** renamed the secret to `COMMIT_USER_EMAIL`.
 
-- explicitly set commit timestamps in `Asia/Kolkata`
-- used IST author/committer dates for each generated commit
+</details>
 
-### 3. GitHub secret naming issue
+<details>
+<summary><strong>4. Groq integration appeared to "not work"</strong></summary>
 
-Original attempt:
+**Root cause:** Groq errors were being suppressed — the shell script redirected stderr away, so failures were invisible.
 
-- a secret name starting with `GITHUB_`
+**Fix:** added explicit Groq error logging; made the workflow print success or failure per generation attempt.
 
-Problem:
+</details>
 
-- GitHub blocks custom secret names beginning with `GITHUB_`
+<details>
+<summary><strong>5. Groq returned HTTP 403 with error code 1010</strong></summary>
 
-Fix:
+**What this indicated:** the key was being read and the request reached Groq, but it was rejected at the edge/API layer.
 
-- renamed the secret to `COMMIT_USER_EMAIL`
-
-### 4. Groq integration appeared to “not work”
-
-Observed behavior:
-
-- workflow succeeded
-- notes were still being written
-- but the content looked like fallback templates, not AI output
-
-Root cause:
-
-- Groq errors were being suppressed
-- the shell script redirected stderr away, so failures were invisible
-
-Fix:
-
-- added explicit Groq error logging
-- made the workflow print success or failure per generation attempt
-
-### 5. Groq returned `HTTP 403` with `error code: 1010`
-
-Observed behavior:
-
-- the workflow logs showed repeated Groq access failures
-
-What this indicated:
-
-- the key was being read
-- the request reached Groq
-- but the request was rejected at the edge/API layer
-
-Fix applied:
-
+**Fix applied:**
 - moved to `llama-3.3-70b-versatile`
 - improved the Python client error handling
-- added a more standard request shape:
-  - `Accept: application/json`
-  - custom `User-Agent`
-  - explicit `"stream": false`
+- added a more standard request shape: `Accept: application/json`, custom `User-Agent`, explicit `"stream": false`
 
-Result:
+**Result:** Groq generation started succeeding in the workflow logs.
 
-- Groq generation started succeeding in the workflow logs
+</details>
 
-## How to Confirm AI Is Working
+---
+
+## 📊 How to Confirm AI Is Working
 
 Run the workflow manually and inspect the log lines inside the `Update Personal Notes` step.
 
-Success looks like:
+```
+✅ Success:
+Groq generation succeeded for journal with model llama-3.3-70b-versatile.
+Groq generation succeeded for ideas with model llama-3.3-70b-versatile.
 
-- `Groq generation succeeded for journal with model llama-3.3-70b-versatile.`
-- `Groq generation succeeded for ideas with model llama-3.3-70b-versatile.`
+❌ Failure:
+Groq generation failed for journal: ...
+```
 
-Failure looks like:
+> If Groq fails, the workflow still writes entries using the local factual fallback generator.
 
-- `Groq generation failed for journal: ...`
+---
 
-If Groq fails, the workflow still writes entries using the local factual fallback generator.
-
-## Notes About Content Quality
+## 📝 Notes About Content Quality
 
 Generated content is intentionally constrained:
 
@@ -319,3 +301,11 @@ Generated content is intentionally constrained:
 - it should feel like short personal notes, project reflections, or idea lines
 
 This keeps the repository more believable and easier to maintain over time.
+
+---
+
+<div align="center">
+
+*Made with 🤖 + GitHub Actions by [@Aniket886](https://github.com/Aniket886)*
+
+</div>
