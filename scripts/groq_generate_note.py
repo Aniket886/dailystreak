@@ -19,6 +19,7 @@ def main() -> int:
         "model": model,
         "temperature": 0.9,
         "max_tokens": 120,
+        "stream": False,
         "messages": [
             {
                 "role": "system",
@@ -39,6 +40,8 @@ def main() -> int:
         headers={
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
+            "Accept": "application/json",
+            "User-Agent": "personal-notes-workflow/1.0",
         },
         method="POST",
     )
