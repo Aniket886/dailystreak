@@ -29,3 +29,4 @@
 - 08:35 PM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and Developer tools become credible when the defaults are safe.
 - 04:35 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and Frontend polish still matters even in security-heavy products.
 - 03:35 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about AI-assisted developer tooling
+- 02:35 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Document the thinking clearly enough that it can be reused..
