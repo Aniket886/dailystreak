@@ -183,3 +183,4 @@
 - 07:35 PM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and Security learning becomes more durable when it is connected to a working product.
 - 06:35 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about secure-by-design engineering
 - 05:35 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Keep the scope practical and focus on real-world use..
+- 03:35 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
