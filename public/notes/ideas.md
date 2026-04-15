@@ -69,3 +69,4 @@
 - 04:35 AM IST: Privacy features should feel normal, not optional.
 - 12:35 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
 - 08:35 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 04:35 PM IST: Good investigation notes are part of the product.
