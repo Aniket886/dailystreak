@@ -67,3 +67,4 @@
 - 06:35 PM IST: Building practical security tools like india-cyber-guard helps bridge web development with digital security, making the web harder to break.
 - 02:35 PM IST: My goal with india-cyber-guard is to turn complex security concepts into intuitive tools that simplify the process of securing the web.
 - 04:35 AM IST: Privacy features should feel normal, not optional.
+- 12:35 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
