@@ -60,3 +60,6 @@
 - 06:35 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 02:35 PM IST: Privacy features should feel normal, not optional.
 - 10:35 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
+
+## 2026-04-16
+- 02:35 AM IST: Building a secure Tech Carnival 2K26 Website with robust investigation notes at its core helps bridge web development and digital security.
