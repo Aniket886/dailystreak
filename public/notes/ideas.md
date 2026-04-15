@@ -43,3 +43,4 @@
 - 12:35 AM IST: Making security intuitive is key, so I'm focusing on building tools that seamlessly integrate privacy features into everyday developer workflows, as seen in projects like the Tech Carnival 2K26 Website.
 - 08:35 PM IST: Turning investigation habits into developer-facing checklists can help create more secure web applications, a goal that aligns with making the web harder to break.
 - 04:35 PM IST: Building tools like FakeBusters helps me learn how to simplify security and ship solutions that people trust, making the web a safer place.
+- 05:35 AM IST: Building ArcMotion's hand-gestures with secure-by-design engineering in mind can help create a more resilient web by integrating spatial interaction and gesture tracking with a security-first approach.
