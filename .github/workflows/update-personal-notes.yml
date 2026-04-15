@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       commit_count:
-        description: "Optional fixed commit count for this run (10-800)"
+        description: "Optional fixed commit count for this run (3-800)"
         required: false
 
 jobs:
@@ -38,8 +38,9 @@ jobs:
           IDEA_FILE: public/notes/ideas.md
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: llama-3.3-70b-versatile
-          MIN_COMMITS: 10
-          AUTO_MAX_COMMITS: 50
+          AI_MODE: ${{ github.event_name == 'schedule' && 'auto' || 'manual' }}
+          MIN_COMMITS: 3
+          AUTO_MAX_COMMITS: 20
           MANUAL_MAX_COMMITS: 800
           BRANCH_NAME: main
           INPUT_COMMIT_COUNT: ${{ github.event.inputs.commit_count }}

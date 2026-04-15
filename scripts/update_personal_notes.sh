@@ -12,6 +12,7 @@ COMMIT_INDEX="${COMMIT_INDEX:?}"
 RUN_SEED="${RUN_SEED:?}"
 GROQ_API_KEY="${GROQ_API_KEY:-}"
 GROQ_MODEL="${GROQ_MODEL:-llama-3.3-70b-versatile}"
+AI_MODE="${AI_MODE:-auto}"
 
 pick() {
   local name="$1"
@@ -88,6 +89,11 @@ generate_ai_line() {
   local target="$1"
   local prompt ai_output status
   local target_label="$target"
+
+  if [ "$AI_MODE" != "auto" ]; then
+    echo "Groq disabled for ${target_label}: AI_MODE=${AI_MODE}." >&2
+    return 1
+  fi
 
   if [ -z "$GROQ_API_KEY" ]; then
     echo "Groq skipped for ${target_label}: missing GROQ_API_KEY." >&2
