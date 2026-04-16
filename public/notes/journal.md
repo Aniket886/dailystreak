@@ -199,3 +199,6 @@
 - 08:28 PM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and Developer tools become credible when the defaults are safe.
 - 08:28 PM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about ethical hacking
 - 08:28 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-04-17
+- 01:15 AM IST: Made room to think through my work on the india-cyber-guard project and I'm reminded that as someone who's participated in HACKANOVA 2026 and learned from the Advent of Cyber certification, the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use, especially considering the frontend polish that still matters even in security-heavy products like the ones I aim to build to bridge web development with digital security.
