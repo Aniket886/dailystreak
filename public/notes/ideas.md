@@ -72,3 +72,4 @@
 - 04:35 PM IST: Good investigation notes are part of the product.
 - 12:35 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: digital forensics
 - 08:35 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 08:27 PM IST: Secure by design beats secure by patch.
