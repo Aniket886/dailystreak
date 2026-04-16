@@ -79,3 +79,4 @@
 ## 2026-04-17
 - 01:15 AM IST: With GitReverse, I aim to make privacy defaults clearer in every project by integrating good investigation notes as a core part of the product, bridging web development with digital security through AI-assisted tooling.
 - 01:16 AM IST: With terralens, I'm focusing on designing a clear and explainable workflow that captures the build logic, making it easier to bridge web development with digital security.
+- 01:16 AM IST: Building practical tools like FakeBusters to detect social media deception brings me closer to my goal of making the web harder to break.
