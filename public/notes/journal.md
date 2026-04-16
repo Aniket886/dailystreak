@@ -202,3 +202,4 @@
 
 ## 2026-04-17
 - 01:15 AM IST: Made room to think through my work on the india-cyber-guard project and I'm reminded that as someone who's participated in HACKANOVA 2026 and learned from the Advent of Cyber certification, the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use, especially considering the frontend polish that still matters even in security-heavy products like the ones I aim to build to bridge web development with digital security.
+- 01:15 AM IST: Captured progress around my mission to bridge web development with digital security, I keep coming back to simplicity, speed, and trust as I reflect on my cybersecurity internship experience and projects like GitReverse, and I plan to keep the scope practical and focus on real-world use.
