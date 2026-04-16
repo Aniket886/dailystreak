@@ -74,3 +74,4 @@
 - 08:35 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 08:27 PM IST: Secure by design beats secure by patch.
 - 08:28 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: ethical hacking
+- 08:28 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
