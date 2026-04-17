@@ -217,3 +217,4 @@
 
 ## 2026-04-18
 - 01:09 AM IST: Spent time reflecting on my work at CYBER DRAVIDA and projects like FakeBusters, realizing that making security tooling practical for real users is still the strongest thread, so I'll write the next small improvement before adding new features, building on my foundation in AI-assisted developer tooling and applying lessons from OSINT and forensics where repeatable workflows make all the difference.
+- 01:09 AM IST: Made room to think through my work on hand-gestures and I'm reminded that the strongest thread is still making security tooling practical for real users, so I'll write the next small improvement before adding new surface area.
