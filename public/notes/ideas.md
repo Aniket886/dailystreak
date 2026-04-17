@@ -82,3 +82,6 @@
 - 01:16 AM IST: Building practical tools like FakeBusters to detect social media deception brings me closer to my goal of making the web harder to break.
 - 01:16 AM IST: Simplifying security tooling is key to making the web more secure, as seen in the india-cyber-guard project.
 - 01:16 AM IST: Simplifying workflows and making privacy defaults clearer is key to building secure and reliable platforms like the Tech Carnival 2K26 Website.
+
+## 2026-04-18
+- 01:09 AM IST: Simplifying security tools is key to making the web a safer place, a goal I'm working towards by creating intuitive platforms like the Tech Carnival 2K26 Website.
