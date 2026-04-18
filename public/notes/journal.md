@@ -221,3 +221,4 @@
 
 ## 2026-04-19
 - 12:54 AM IST: Revisited the direction for GitReverse, realizing the most useful tools are the ones people can adopt without friction, and I'm aiming to turn the rough idea into something testable, building on my learning from TryHackMe and Google AI Essentials.
+- 12:54 AM IST: Checked back in on my projects and realized that good product framing keeps security work from becoming noise, so I'll keep the scope practical and focus on real-world use as I continue building hand-gestures and applying secure-by-design engineering principles.
