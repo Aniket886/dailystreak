@@ -90,3 +90,4 @@
 - 12:54 AM IST: Building FakeBusters for HACKANOVA 2026 taught me that good investigation notes are crucial in ethical hacking projects, helping capture the logic before implementation complexities arise.
 - 12:54 AM IST: Streamlining the Tech Carnival 2K26 Website's admin dashboard with clear and repeatable workflows helps ensure a secure and intuitive user experience, aligning with the goal of building practical tools that strengthen digital security.
 - 12:54 AM IST: As I reflect on FakeBusters for HACKANOVA 2026, I realize that building effective tools like this deception detector is key to making the web more secure, one investigation note at a time.
+- 12:54 AM IST: Simplifying security tooling to reduce confusion is key, as seen with the Data Wiping Tool, where capturing build logic upfront helped create a practical solution for public data privacy.
