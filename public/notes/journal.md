@@ -218,3 +218,6 @@
 ## 2026-04-18
 - 01:09 AM IST: Spent time reflecting on my work at CYBER DRAVIDA and projects like FakeBusters, realizing that making security tooling practical for real users is still the strongest thread, so I'll write the next small improvement before adding new features, building on my foundation in AI-assisted developer tooling and applying lessons from OSINT and forensics where repeatable workflows make all the difference.
 - 01:09 AM IST: Made room to think through my work on hand-gestures and I'm reminded that the strongest thread is still making security tooling practical for real users, so I'll write the next small improvement before adding new surface area.
+
+## 2026-04-19
+- 12:54 AM IST: Revisited the direction for GitReverse, realizing the most useful tools are the ones people can adopt without friction, and I'm aiming to turn the rough idea into something testable, building on my learning from TryHackMe and Google AI Essentials.
