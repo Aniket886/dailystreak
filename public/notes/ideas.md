@@ -217,3 +217,6 @@
 - 01:24 PM IST: Working line: Secure by design beats secure by patch. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:24 PM IST: Privacy features should feel normal, not optional.
 - 01:24 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: digital forensics
+
+## 2026-04-20
+- 12:55 AM IST: Creating GitReverse to turn GitHub links into actionable notes embodies my belief that good investigation habits, like meticulous note-taking, are essential to building a more secure web.
