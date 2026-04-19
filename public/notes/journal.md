@@ -319,3 +319,4 @@
 - 01:18 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 01:18 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about ethical hacking
 - 01:18 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The work feels best when the technical detail supports a clear outcome. A good reference point is Write the next small improvement before adding new surface area..
+- 01:18 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
