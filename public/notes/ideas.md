@@ -159,3 +159,4 @@
 - 01:20 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: web security fundamentals
 - 01:20 PM IST: Working line: Secure by design beats secure by patch. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 01:21 PM IST: Good investigation notes are part of the product.
+- 01:21 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
