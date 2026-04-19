@@ -448,3 +448,4 @@
 - 01:21 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
 - 01:21 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about ethical hacking
 - 01:21 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Innovating with Google Cloud Artificial Intelligence. The build side matters as much as the investigation side. A good reference point is Turn the rough idea into something testable..
+- 01:21 PM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Frontend polish still matters even in security-heavy products.
