@@ -340,3 +340,4 @@
 - 01:18 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and A clean notes habit makes project decisions easier to revisit.
 - 01:18 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about web security fundamentals
 - 01:18 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Innovating with Google Cloud Artificial Intelligence. The work feels best when the technical detail supports a clear outcome. A good reference point is Document the thinking clearly enough that it can be reused..
+- 01:18 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
