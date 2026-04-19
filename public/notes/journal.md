@@ -589,3 +589,4 @@
 - 01:24 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is AI-assisted developer tooling, and A clean notes habit makes project decisions easier to revisit.
 - 01:24 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about digital forensics
 - 01:24 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). I keep coming back to simplicity, speed, and trust. A good reference point is Document the thinking clearly enough that it can be reused..
+- 01:24 PM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and Frontend polish still matters even in security-heavy products.
