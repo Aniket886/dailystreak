@@ -502,3 +502,4 @@
 - 01:22 PM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and Security learning becomes more durable when it is connected to a working product.
 - 01:22 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about ethical hacking
 - 01:22 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The strongest thread is still making security tooling practical for real users. A good reference point is Turn the rough idea into something testable..
+- 01:22 PM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and AI tooling is most useful when it reduces noise instead of adding it.
