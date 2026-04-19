@@ -244,3 +244,4 @@
 - 01:16 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
 - 01:16 PM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about AI-assisted developer tooling
 - 01:16 PM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Google AI Essentials. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+- 01:16 PM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and Frontend polish still matters even in security-heavy products.
