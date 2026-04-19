@@ -95,3 +95,4 @@
 - 01:16 PM IST: Good investigation notes are part of the product.
 - 01:16 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: privacy-focused product design
 - 01:16 PM IST: Working line: Good investigation notes are part of the product. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 01:16 PM IST: Build practical tools that make the web harder to break.
