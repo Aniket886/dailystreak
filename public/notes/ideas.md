@@ -132,3 +132,4 @@
 - 01:19 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: investigation workflow design
 - 01:19 PM IST: Working line: Good investigation notes are part of the product. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 01:19 PM IST: The best workflow is the one I can explain clearly and repeat.
+- 01:19 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: privacy-focused product design
