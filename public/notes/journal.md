@@ -451,3 +451,4 @@
 - 01:21 PM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Frontend polish still matters even in security-heavy products.
 - 01:21 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about web security fundamentals
 - 01:21 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Advent of Cyber. The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
+- 01:21 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
