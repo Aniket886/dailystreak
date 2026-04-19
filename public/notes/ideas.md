@@ -105,3 +105,4 @@
 - 01:17 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: investigation workflow design
 - 01:17 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 01:17 PM IST: Secure by design beats secure by patch.
+- 01:17 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: OSINT workflows
