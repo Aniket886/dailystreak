@@ -457,3 +457,4 @@
 - 01:21 PM IST: BCA student at GM University, Davanagere. The current learning thread is ethical hacking, and Frontend polish still matters even in security-heavy products.
 - 01:21 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about OSINT workflows
 - 01:21 PM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Innovating with Google Cloud Artificial Intelligence. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:21 PM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
