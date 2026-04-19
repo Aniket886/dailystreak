@@ -93,3 +93,4 @@
 - 12:54 AM IST: Simplifying security tooling to reduce confusion is key, as seen with the Data Wiping Tool, where capturing build logic upfront helped create a practical solution for public data privacy.
 - 12:54 AM IST: Clarity in workflow design is key to shipping reliable tools like terralens, where learning from each iteration builds trust in bridging web development and digital security.
 - 01:16 PM IST: Good investigation notes are part of the product.
+- 01:16 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: privacy-focused product design
