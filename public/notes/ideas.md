@@ -97,3 +97,4 @@
 - 01:16 PM IST: Working line: Good investigation notes are part of the product. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 01:16 PM IST: Build practical tools that make the web harder to break.
 - 01:16 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: investigation workflow design
+- 01:16 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: terralens: an active TypeScript product iteration from April 2026.
