@@ -124,3 +124,4 @@
 - 01:18 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 01:18 PM IST: Privacy features should feel normal, not optional.
 - 01:18 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: secure-by-design engineering
+- 01:18 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
