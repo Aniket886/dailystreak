@@ -490,3 +490,4 @@
 - 01:22 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
 - 01:22 PM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
 - 01:22 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:22 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
