@@ -213,3 +213,4 @@
 - 01:24 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: web security fundamentals
 - 01:24 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 01:24 PM IST: Security tooling should reduce confusion, not create more of it.
+- 01:24 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
