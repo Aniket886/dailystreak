@@ -102,3 +102,4 @@
 - 01:17 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: privacy-focused product design
 - 01:17 PM IST: Working line: Good investigation notes are part of the product. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:17 PM IST: Build practical tools that make the web harder to break.
+- 01:17 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: investigation workflow design
