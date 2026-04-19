@@ -517,3 +517,4 @@
 - 01:22 PM IST: BCA student at GM University, Davanagere. The current learning thread is investigation workflow design, and A clean notes habit makes project decisions easier to revisit.
 - 01:22 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about ethical hacking
 - 01:22 PM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about MongoDB AI and Innovation. The build side matters as much as the investigation side. A good reference point is Stay close to the actual user problem..
+- 01:22 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
