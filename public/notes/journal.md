@@ -544,3 +544,4 @@
 - 01:23 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is investigation workflow design, and A clean notes habit makes project decisions easier to revisit.
 - 01:23 PM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about ethical hacking
 - 01:23 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. The work feels best when the technical detail supports a clear outcome. A good reference point is Document the thinking clearly enough that it can be reused..
+- 01:23 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
