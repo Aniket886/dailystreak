@@ -178,3 +178,4 @@
 - 01:22 PM IST: Working line: Secure by design beats secure by patch. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 01:22 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:22 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: OSINT workflows
+- 01:22 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
