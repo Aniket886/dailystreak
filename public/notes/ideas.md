@@ -157,3 +157,4 @@
 - 01:20 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 01:20 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:20 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: web security fundamentals
+- 01:20 PM IST: Working line: Secure by design beats secure by patch. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
