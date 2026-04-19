@@ -145,3 +145,4 @@
 - 01:19 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 01:20 PM IST: Secure by design beats secure by patch.
 - 01:20 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: digital forensics
+- 01:20 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
