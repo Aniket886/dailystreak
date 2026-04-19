@@ -150,3 +150,4 @@
 - 01:20 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
 - 01:20 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:20 PM IST: Secure by design beats secure by patch.
+- 01:20 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: privacy-focused product design
