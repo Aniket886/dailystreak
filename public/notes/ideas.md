@@ -123,3 +123,4 @@
 - 01:18 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: privacy-focused product design
 - 01:18 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 01:18 PM IST: Privacy features should feel normal, not optional.
+- 01:18 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: secure-by-design engineering
