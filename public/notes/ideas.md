@@ -221,3 +221,4 @@
 ## 2026-04-20
 - 12:55 AM IST: Creating GitReverse to turn GitHub links into actionable notes embodies my belief that good investigation habits, like meticulous note-taking, are essential to building a more secure web.
 - 12:55 AM IST: By integrating secure by design principles into developer checklists, we can prevent vulnerabilities from the start, as seen in FakeBusters, a project that brings ethical hacking and AI together to make the web more secure.
+- 12:55 AM IST: Building secure foundations from the start is key, which is why capturing the build logic early is crucial to creating robust OSINT workflows like those in the india-cyber-guard project.
