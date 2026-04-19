@@ -147,3 +147,4 @@
 - 01:20 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: digital forensics
 - 01:20 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:20 PM IST: The best workflow is the one I can explain clearly and repeat.
+- 01:20 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
