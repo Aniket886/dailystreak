@@ -146,3 +146,4 @@
 - 01:20 PM IST: Secure by design beats secure by patch.
 - 01:20 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: digital forensics
 - 01:20 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
+- 01:20 PM IST: The best workflow is the one I can explain clearly and repeat.
