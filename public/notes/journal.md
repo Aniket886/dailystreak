@@ -331,3 +331,4 @@
 - 01:18 PM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 01:18 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
 - 01:18 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
+- 01:18 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is AI-assisted developer tooling, and A clean notes habit makes project decisions easier to revisit.
