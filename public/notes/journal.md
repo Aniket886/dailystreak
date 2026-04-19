@@ -328,3 +328,4 @@
 - 01:18 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and Developer tools become credible when the defaults are safe.
 - 01:18 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about web security fundamentals
 - 01:18 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about MongoDB AI and Innovation. The build side matters as much as the investigation side. A good reference point is Write the next small improvement before adding new surface area..
+- 01:18 PM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
