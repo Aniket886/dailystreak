@@ -175,3 +175,4 @@
 - 01:21 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:22 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:22 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: AI-assisted developer tooling
+- 01:22 PM IST: Working line: Secure by design beats secure by patch. Project anchor: terralens: an active TypeScript product iteration from April 2026.
