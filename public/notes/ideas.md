@@ -164,3 +164,4 @@
 - 01:21 PM IST: Good investigation notes are part of the product.
 - 01:21 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: ethical hacking
 - 01:21 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
+- 01:21 PM IST: Build practical tools that make the web harder to break.
