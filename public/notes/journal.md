@@ -355,3 +355,4 @@
 - 01:19 PM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:19 PM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about ethical hacking
 - 01:19 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about MongoDB AI and Innovation. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
+- 01:19 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
