@@ -541,3 +541,4 @@
 - 01:23 PM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 01:23 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about ethical hacking
 - 01:23 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+- 01:23 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is investigation workflow design, and A clean notes habit makes project decisions easier to revisit.
