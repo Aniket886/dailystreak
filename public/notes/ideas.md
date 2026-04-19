@@ -143,3 +143,4 @@
 - 01:19 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:19 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: privacy-focused product design
 - 01:19 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 01:20 PM IST: Secure by design beats secure by patch.
