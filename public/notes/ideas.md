@@ -138,3 +138,4 @@
 - 01:19 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
 - 01:19 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:19 PM IST: The best workflow is the one I can explain clearly and repeat.
+- 01:19 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: AI-assisted developer tooling
