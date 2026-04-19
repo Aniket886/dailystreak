@@ -166,3 +166,4 @@
 - 01:21 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 01:21 PM IST: Build practical tools that make the web harder to break.
 - 01:21 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
+- 01:21 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
