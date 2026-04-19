@@ -171,3 +171,4 @@
 - 01:21 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: digital forensics
 - 01:21 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:21 PM IST: Secure by design beats secure by patch.
+- 01:21 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
