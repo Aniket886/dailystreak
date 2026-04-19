@@ -427,3 +427,4 @@
 - 01:20 PM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
 - 01:20 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about investigation workflow design
 - 01:20 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Digital Forensics Essentials (DFE). The most useful tools are the ones people can adopt without friction. A good reference point is Stay close to the actual user problem..
+- 01:20 PM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and A clean notes habit makes project decisions easier to revisit.
