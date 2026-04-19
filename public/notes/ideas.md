@@ -216,3 +216,4 @@
 - 01:24 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
 - 01:24 PM IST: Working line: Secure by design beats secure by patch. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:24 PM IST: Privacy features should feel normal, not optional.
+- 01:24 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: digital forensics
