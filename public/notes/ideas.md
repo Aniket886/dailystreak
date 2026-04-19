@@ -208,3 +208,4 @@
 - 01:24 PM IST: Working line: Secure by design beats secure by patch. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 01:24 PM IST: The best workflow is the one I can explain clearly and repeat.
 - 01:24 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
+- 01:24 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
