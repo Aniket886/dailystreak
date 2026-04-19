@@ -277,3 +277,4 @@
 - 01:17 PM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Developer tools become credible when the defaults are safe.
 - 01:17 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about AI-assisted developer tooling
 - 01:17 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Digital Forensics Essentials (DFE). Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
+- 01:17 PM IST: BCA student at GM University, Davanagere. The current learning thread is investigation workflow design, and Frontend polish still matters even in security-heavy products.
