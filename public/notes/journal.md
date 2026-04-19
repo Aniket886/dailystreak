@@ -445,3 +445,4 @@
 - 01:21 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is AI-assisted developer tooling, and Developer tools become credible when the defaults are safe.
 - 01:21 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about secure-by-design engineering
 - 01:21 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Write the next small improvement before adding new surface area..
+- 01:21 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
