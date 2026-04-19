@@ -173,3 +173,4 @@
 - 01:21 PM IST: Secure by design beats secure by patch.
 - 01:21 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
 - 01:21 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
+- 01:22 PM IST: Security tooling should reduce confusion, not create more of it.
