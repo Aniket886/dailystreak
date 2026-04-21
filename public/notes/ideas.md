@@ -230,3 +230,4 @@
 ## 2026-04-22
 - 01:16 AM IST: By integrating privacy features as a standard development process, we can make secure-by-design engineering the norm, as seen with the Data Wiping Tool.
 - 01:16 AM IST: Building tools like the Data Wiping Tool helps me connect the dots between web development and digital security, one practical step at a time.
+- 01:16 AM IST: Simplifying security tooling is key to terralens, where a core lesson from cybersecurity mentoring is shaping the UX to reduce confusion and make the web more secure.
