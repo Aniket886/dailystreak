@@ -247,3 +247,4 @@
 - 01:01 AM IST: Building tools like MetaClean reinforces my approach that secure by design beats secure by patch, and turning investigation habits into developer checklists can further bridge web development with digital security.
 - 01:01 AM IST: Capturing build logic before implementation noise is key to making secure by design a reality, especially with tools like GitReverse that dissect GitHub repos for security insights.
 - 01:01 AM IST: Building tools like GitReverse helps make privacy-focused design more accessible, turning security knowledge into intuitive features that feel like a natural part of the development process.
+- 01:01 AM IST: With GitReverse, I aim to make OSINT workflows more accessible by generating insightful notes from GitHub repos, ultimately strengthening the bridge between web development and digital security.
