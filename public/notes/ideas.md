@@ -242,3 +242,6 @@
 - 01:21 AM IST: Building tools like the Data Wiping Tool helps bridge the gap between web development and digital security, making privacy features a normal part of the development process.
 - 01:21 AM IST: Building practical tools like FakeBusters helps turn investigation habits into developer-facing checklists that make the web harder to break.
 - 01:21 AM IST: Simplifying security tools is key, as seen with FakeBusters, where clarity and repeatability in workflow enabled effective AI-assisted deception detection.
+
+## 2026-04-25
+- 01:01 AM IST: Building tools like MetaClean reinforces my approach that secure by design beats secure by patch, and turning investigation habits into developer checklists can further bridge web development with digital security.
