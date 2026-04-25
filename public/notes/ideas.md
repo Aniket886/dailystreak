@@ -248,3 +248,6 @@
 - 01:01 AM IST: Capturing build logic before implementation noise is key to making secure by design a reality, especially with tools like GitReverse that dissect GitHub repos for security insights.
 - 01:01 AM IST: Building tools like GitReverse helps make privacy-focused design more accessible, turning security knowledge into intuitive features that feel like a natural part of the development process.
 - 01:01 AM IST: With GitReverse, I aim to make OSINT workflows more accessible by generating insightful notes from GitHub repos, ultimately strengthening the bridge between web development and digital security.
+
+## 2026-04-26
+- 12:57 AM IST: By designing FakeBusters with security in mind from the start, I learned that integrating cybersecurity principles into product development can lead to more effective and reliable tools against digital deception.
