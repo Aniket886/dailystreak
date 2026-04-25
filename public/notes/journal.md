@@ -685,3 +685,6 @@
 - 01:01 AM IST: Spent time reflecting on how my work at CYBER DRAVIDA, particularly with terralens, aligns with my mission to bridge web development with digital security, and I'm convinced that the most useful tools are the ones people can adopt without friction, so next I'll turn the rough idea into something testable.
 - 01:01 AM IST: Wrote down a few notes about my experience with FakeBusters, realizing that good product framing is key to keeping security work from becoming noise, and I plan to stay close to the actual user problem as I continue learning about digital forensics.
 - 01:01 AM IST: Checked back in on my india-cyber-guard project and realized I keep coming back to simplicity, speed, and trust as key factors in investigation workflow design, which aligns with my mission to bridge web development with digital security, so I'll keep the scope practical and focus on real-world use.
+
+## 2026-04-26
+- 12:57 AM IST: Spent time reflecting on my experience as a cybersecurity intern and working on hand-gestures, I realize the work feels best when the technical detail supports a clear outcome, so I'll keep the scope practical and focus on real-world use, applying lessons from investigation workflow design and my Advent of Cyber certification to make the web harder to break.
