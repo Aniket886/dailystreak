@@ -251,3 +251,6 @@
 
 ## 2026-04-26
 - 12:57 AM IST: By designing FakeBusters with security in mind from the start, I learned that integrating cybersecurity principles into product development can lead to more effective and reliable tools against digital deception.
+
+## 2026-04-27
+- 12:59 AM IST: Building practical tools like FakeBusters helps make the web harder to break by clarifying privacy defaults in OSINT workflows.
