@@ -276,3 +276,4 @@
 - 08:59 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: privacy-focused product design
 - 08:59 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 08:59 PM IST: The best workflow is the one I can explain clearly and repeat.
+- 08:59 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: investigation workflow design
