@@ -714,3 +714,4 @@
 - 08:52 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
 - 08:52 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about secure-by-design engineering
 - 08:52 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Google AI Essentials. The strongest thread is still making security tooling practical for real users. A good reference point is Write the next small improvement before adding new surface area..
+- 08:52 PM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
