@@ -772,3 +772,4 @@
 - 09:23 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
 - 09:23 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about secure-by-design engineering
 - 09:23 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Google AI Essentials. The strongest thread is still making security tooling practical for real users. A good reference point is Turn the rough idea into something testable..
+- 09:23 PM IST: BCA student at GM University, Davanagere. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
