@@ -263,3 +263,4 @@
 - 01:25 AM IST: Streamlining investigation workflows with tools like MetaClean helps build trust by reducing security complexities and making digital protection more accessible.
 - 01:25 AM IST: Simplifying OSINT workflows into repeatable checklists helps me build more secure tools like MetaClean, where clarity meets digital security.
 - 08:52 PM IST: Secure by design beats secure by patch.
+- 08:52 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
