@@ -271,3 +271,4 @@
 - 08:58 PM IST: Working line: Secure by design beats secure by patch. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 08:59 PM IST: Privacy features should feel normal, not optional.
 - 08:59 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: OSINT workflows
+- 08:59 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
