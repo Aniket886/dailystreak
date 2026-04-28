@@ -267,3 +267,4 @@
 - 08:52 PM IST: The best workflow is the one I can explain clearly and repeat.
 - 08:52 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: secure-by-design engineering
 - 08:58 PM IST: Secure by design beats secure by patch.
+- 08:58 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: ethical hacking
