@@ -795,3 +795,6 @@
 - 09:34 PM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
 - 09:34 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and A clean notes habit makes project decisions easier to revisit.
 - 09:34 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about ethical hacking
+
+## 2026-04-29
+- 01:33 AM IST: Checked back in on my projects and realized the strongest thread is still making security tooling practical for real users, so I'll write the next small improvement for the Data Wiping Tool before adding new features, keeping in mind that frontend polish still matters even in security-heavy products.
