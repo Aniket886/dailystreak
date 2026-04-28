@@ -273,3 +273,4 @@
 - 08:59 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: OSINT workflows
 - 08:59 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 08:59 PM IST: Privacy features should feel normal, not optional.
+- 08:59 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: privacy-focused product design
