@@ -747,3 +747,4 @@
 - 08:59 PM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and A clean notes habit makes project decisions easier to revisit.
 - 08:59 PM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about privacy-focused product design
 - 08:59 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. The work feels best when the technical detail supports a clear outcome. A good reference point is Keep the scope practical and focus on real-world use..
+- 08:59 PM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and Security learning becomes more durable when it is connected to a working product.
