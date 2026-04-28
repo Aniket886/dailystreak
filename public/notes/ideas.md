@@ -287,3 +287,4 @@
 - 09:30 PM IST: Working line: Secure by design beats secure by patch. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 09:31 PM IST: Build practical tools that make the web harder to break.
 - 09:34 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: ethical hacking
+- 09:34 PM IST: Working line: Secure by design beats secure by patch. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
