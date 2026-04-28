@@ -262,3 +262,4 @@
 - 01:25 AM IST: Building tools like GitReverse helps me learn how to bridge web development with digital security, shipping practical solutions that make the web harder to break by design.
 - 01:25 AM IST: Streamlining investigation workflows with tools like MetaClean helps build trust by reducing security complexities and making digital protection more accessible.
 - 01:25 AM IST: Simplifying OSINT workflows into repeatable checklists helps me build more secure tools like MetaClean, where clarity meets digital security.
+- 08:52 PM IST: Secure by design beats secure by patch.
