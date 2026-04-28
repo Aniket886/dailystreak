@@ -285,3 +285,4 @@
 - 09:23 PM IST: Security tooling should reduce confusion, not create more of it.
 - 09:30 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: privacy-focused product design
 - 09:30 PM IST: Working line: Secure by design beats secure by patch. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
+- 09:31 PM IST: Build practical tools that make the web harder to break.
