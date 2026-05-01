@@ -821,3 +821,4 @@
 
 ## 2026-05-02
 - 01:18 AM IST: Revisited the direction for CYBER DRAVIDA and realized the strongest thread is still making security tooling practical for real users, so I'll turn my rough idea into something testable, building on lessons from Tech Carnival 2K26 and my learning in ethical hacking and Google AI Essentials.
+- 01:18 AM IST: Spent time reflecting on how good product framing keeps security work from becoming noise, particularly with GitReverse, and I'm looking forward to writing the next small improvement to further solidify my learning in web security fundamentals.
