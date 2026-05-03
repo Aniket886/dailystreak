@@ -841,3 +841,4 @@
 
 ## 2026-05-04
 - 01:04 AM IST: Captured progress around my cybersecurity journey and I keep coming back to simplicity, speed, and trust as I reflect on my work with projects like hand-gestures and my learning in digital forensics, noting that frontend polish still matters even in security-heavy products.
+- 01:04 AM IST: Made room to think through my experiences as a cybersecurity intern and working on projects like hand-gestures, and I've come to realize that the strongest thread is still making security tooling practical for real users, which I'll aim to document clearly for future reference.
