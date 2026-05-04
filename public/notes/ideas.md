@@ -313,3 +313,6 @@
 
 ## 2026-05-04
 - 01:04 AM IST: With terralens, I'm bridging web development and digital security to make the web more secure, one practical tool at a time, because secure by design is the foundation of trust.
+
+## 2026-05-05
+- 01:33 AM IST: With terralens, I'm exploring how good investigation notes can enhance OSINT workflows, making privacy defaults clearer in every project.
