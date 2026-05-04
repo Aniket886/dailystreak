@@ -846,3 +846,4 @@
 ## 2026-05-05
 - 01:33 AM IST: Captured progress around building practical tools like terralens, and I'm reminded that the build side matters as much as the investigation side, so next I'll write the next small improvement before adding new surface area.
 - 01:33 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website and I feel it's most effective when technical details support a clear outcome, so I'll document my thinking clearly for future reuse.
+- 01:33 AM IST: Captured progress around my work on the Tech Carnival 2K26 Website, where I applied my skills as a BCA student to build a secure full-stack event platform, and I've come to realize that good product framing keeps security work from becoming noise, so my next step is to write the next small improvement before adding new surface area, focusing on frontend polish which still matters even in security-heavy products like this one.
