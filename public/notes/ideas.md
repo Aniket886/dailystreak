@@ -316,3 +316,6 @@
 
 ## 2026-05-05
 - 01:33 AM IST: With terralens, I'm exploring how good investigation notes can enhance OSINT workflows, making privacy defaults clearer in every project.
+
+## 2026-05-06
+- 01:28 AM IST: Simplifying my OSINT workflow into a repeatable checklist will help me build more reliable tools like FakeBusters, making it easier to bridge web development and digital security.
