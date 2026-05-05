@@ -854,3 +854,4 @@
 ## 2026-05-06
 - 01:28 AM IST: Spent time reflecting on my work with GitReverse and I'm convinced that the most useful tools are the ones people can adopt without friction, so my next step is to document the thinking clearly enough that it can be reused.
 - 01:28 AM IST: Revisited the direction for CYBER DRAVIDA and realized that building practical tools like FakeBusters is just as crucial as investigating cyber threats, so I will write the next small improvement before adding new surface area to our projects.
+- 01:28 AM IST: Checked back in on my work with FakeBusters and I keep coming back to the importance of simplicity, speed, and trust in building secure tools, realizing that security learning becomes more durable when it is connected to a working product like this, so I'll keep the scope practical and focus on real-world use.
