@@ -858,3 +858,6 @@
 - 01:28 AM IST: Spent time reflecting on my experience as a cybersecurity intern and working on projects like hand-gestures, realizing that the build side matters as much as the investigation side, and I plan to tighten the flow and keep the implementation honest in my future work.
 - 01:28 AM IST: Made room to think through my work at CYBER DRAVIDA, and I keep coming back to simplicity, speed, and trust, so I'll write the next small improvement for the Data Wiping Tool before adding new features.
 - 01:28 AM IST: Made room to think through my work on MetaClean and realized the strongest thread is still making security tooling practical for real users, so I'll turn this rough idea into something testable and focus on privacy-focused product design.
+
+## 2026-05-07
+- 01:40 AM IST: Revisited the direction for my projects and realized that as a BCA student at GM University, focusing on secure-by-design engineering is crucial, so I will write the next small improvement for india-cyber-guard before adding new features, keeping in mind that the build side matters as much as the investigation side.
