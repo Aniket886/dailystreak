@@ -319,3 +319,6 @@
 
 ## 2026-05-06
 - 01:28 AM IST: Simplifying my OSINT workflow into a repeatable checklist will help me build more reliable tools like FakeBusters, making it easier to bridge web development and digital security.
+
+## 2026-05-07
+- 01:40 AM IST: Building FakeBusters has taught me that good investigation notes are crucial in designing a trustworthy investigation workflow, especially when shipping AI-powered tools like our multimodal deception detector.
