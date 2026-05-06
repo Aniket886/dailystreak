@@ -861,3 +861,4 @@
 
 ## 2026-05-07
 - 01:40 AM IST: Revisited the direction for my projects and realized that as a BCA student at GM University, focusing on secure-by-design engineering is crucial, so I will write the next small improvement for india-cyber-guard before adding new features, keeping in mind that the build side matters as much as the investigation side.
+- 01:40 AM IST: Spent time reflecting on my work and I realize that good product framing keeps security work from becoming noise, so I'll tighten the flow and keep the implementation honest in terralens, applying my learnings from Digital Forensics Essentials and HACKANOVA 2026 to prioritize privacy-focused design.
