@@ -866,3 +866,4 @@
 
 ## 2026-05-08
 - 01:33 AM IST: Wrote down a few notes about my work on terralens, where I've been applying my experience as a former Technical Secretary to build practical tools that bridge web development with digital security, and I'm finding that the work feels best when the technical detail supports a clear outcome, which is why I'm planning to document my thinking clearly enough that it can be reused, especially after learning from OSINT workflows and participating in HACKANOVA 2026, and also preparing for Advent of Cyber, as I've come to realize that a clean notes habit makes project decisions easier to revisit.
+- 01:33 AM IST: Wrote down a few notes about my work on terralens, where I've been applying my experience as a former Ethical Hacking Mentor to build practical tools, and I'm reminded that the work feels best when the technical detail supports a clear outcome, like making the web more secure through privacy-focused product design.
