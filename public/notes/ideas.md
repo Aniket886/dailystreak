@@ -322,3 +322,6 @@
 
 ## 2026-05-07
 - 01:40 AM IST: Building FakeBusters has taught me that good investigation notes are crucial in designing a trustworthy investigation workflow, especially when shipping AI-powered tools like our multimodal deception detector.
+
+## 2026-05-08
+- 01:33 AM IST: Simplifying data privacy workflows into reusable checklists helps me build more transparent and secure tools, like the Data Wiping Tool, that put security within reach of everyday web development.
