@@ -326,3 +326,6 @@
 ## 2026-05-08
 - 01:33 AM IST: Simplifying data privacy workflows into reusable checklists helps me build more transparent and secure tools, like the Data Wiping Tool, that put security within reach of everyday web development.
 - 01:34 AM IST: Building practical tools like india-cyber-guard helps bridge web development with digital security, making the web a more trustworthy place.
+
+## 2026-05-09
+- 01:25 AM IST: With terralens, I'm exploring how good investigation notes can shape a privacy-focused product, making every project a chance to clarify and strengthen default privacy settings.
