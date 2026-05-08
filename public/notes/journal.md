@@ -873,3 +873,6 @@
 - 01:34 AM IST: Made room to think through my work on FakeBusters and training students in cybersecurity fundamentals, and I've come to realize that the most useful tools are the ones people can adopt without friction, so my next step is to stay close to the actual user problem and keep in mind that even in security-heavy products, frontend polish still matters.
 - 01:34 AM IST: Made room to think through my projects like MetaClean, and I realize the most useful tools are the ones people can adopt without friction, so I'll keep the scope practical and focus on real-world use, especially as I continue learning digital forensics and applying my OSINT CCI certification to create more effective solutions.
 - 01:34 AM IST: Wrote down a few notes about my work on MetaClean, realizing the build side matters as much as the investigation side, and I plan to tighten the flow and keep the implementation honest in my future projects.
+
+## 2026-05-09
+- 01:25 AM IST: Made room to think through my work on FakeBusters and I keep coming back to simplicity, speed, and trust as key elements in bridging web development with digital security, reminding me to keep the scope practical and focus on real-world use.
