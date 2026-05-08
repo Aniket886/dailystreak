@@ -330,3 +330,4 @@
 ## 2026-05-09
 - 01:25 AM IST: With terralens, I'm exploring how good investigation notes can shape a privacy-focused product, making every project a chance to clarify and strengthen default privacy settings.
 - 01:25 AM IST: Designing investigation workflows that integrate good notes and tools, like those in india-cyber-guard, can make security more accessible and the web more secure.
+- 01:25 AM IST: Creating a developer-facing checklist from my investigation habits can enhance GitReverse as a tool to turn GitHub links into actionable security insights.
