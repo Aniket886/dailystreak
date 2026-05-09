@@ -888,3 +888,6 @@
 - 01:25 AM IST: Checked back in on my work with india-cyber-guard and realized that the most useful security tools are the ones people can adopt without friction, so I'll stay close to the actual user problem to build practical secure-by-design solutions.
 - 01:25 AM IST: Spent time reflecting on how GitReverse is shaping up as a repo intelligence tool, and I'm convinced that good product framing is key to keeping our security work from becoming noise, so next I'll tighten the flow and keep the implementation honest.
 - 01:25 AM IST: Made room to think through my work at CYBER DRAVIDA, where good product framing on projects like GitReverse has helped me realize that keeping security work practical and focused on real-world use is key, a lesson that resonates with my learning in ethical hacking and Innovating with Google Cloud Artificial Intelligence.
+
+## 2026-05-10
+- 01:10 AM IST: Captured progress around building the Tech Carnival 2K26 Website, and I feel most fulfilled when the technical details come together to support a clear outcome, like making the web harder to break, which I'm eager to document and reuse in future projects.
