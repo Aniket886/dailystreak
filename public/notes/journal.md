@@ -892,3 +892,4 @@
 ## 2026-05-10
 - 01:10 AM IST: Captured progress around building the Tech Carnival 2K26 Website, and I feel most fulfilled when the technical details come together to support a clear outcome, like making the web harder to break, which I'm eager to document and reuse in future projects.
 - 01:10 AM IST: Checked back in on terralens and realized that good product framing keeps security work from becoming noise, so I'm focusing on turning the rough idea into something testable to apply my secure-by-design engineering skills and OSINT knowledge.
+- 01:10 AM IST: Spent time reflecting on my experience as a former Ethical Hacking Mentor at Hack_Gurukula and working on terralens, realizing that the build side matters as much as the investigation side, and I plan to stay close to the actual user problem as I explore AI-assisted developer tooling.
