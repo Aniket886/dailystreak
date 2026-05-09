@@ -332,3 +332,6 @@
 - 01:25 AM IST: Designing investigation workflows that integrate good notes and tools, like those in india-cyber-guard, can make security more accessible and the web more secure.
 - 01:25 AM IST: Creating a developer-facing checklist from my investigation habits can enhance GitReverse as a tool to turn GitHub links into actionable security insights.
 - 01:25 AM IST: Building intuitive privacy features like gesture tracking and voice controls into projects from the start makes security feel seamless, not secondary.
+
+## 2026-05-10
+- 01:10 AM IST: Building practical tools like GitReverse helps capture core architecture logic and security insights early on, making the web more resilient to vulnerabilities.
