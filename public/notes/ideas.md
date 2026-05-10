@@ -336,3 +336,6 @@
 ## 2026-05-10
 - 01:10 AM IST: Building practical tools like GitReverse helps capture core architecture logic and security insights early on, making the web more resilient to vulnerabilities.
 - 01:10 AM IST: Turning investigation habits into developer checklists can help bridge the gap between web development and digital security, making tools like GitReverse more effective in building a more secure web.
+
+## 2026-05-11
+- 01:10 AM IST: Building terralens is about creating a privacy-focused product where good investigation notes are woven into the fabric of the tool itself.
