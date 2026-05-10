@@ -898,3 +898,4 @@
 
 ## 2026-05-11
 - 01:10 AM IST: Made room to think through my projects like the Data Wiping Tool and I keep coming back to simplicity, speed, and trust as key elements to achieve our mission of bridging web development with digital security.
+- 01:10 AM IST: Checked back in on my work with hand-gestures and realized the most useful tools are the ones people can adopt without friction, so my next step is to turn the rough idea into something testable.
