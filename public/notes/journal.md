@@ -913,3 +913,4 @@
 
 ## 2026-05-13
 - 01:45 AM IST: Made room to think through my work at CYBER DRAVIDA and I'm reminded that the strongest thread is still making security tooling practical for real users, particularly as I apply web security fundamentals to projects like hand-gestures and build on my learning streak and certifications like Google AI Essentials.
+- 01:45 AM IST: Revisited the direction for CYBER DRAVIDA and realized that the most useful tools are the ones people can adopt without friction, which I'll keep in mind as I write the next small improvement for the Tech Carnival 2K26 Website before adding new surface area.
