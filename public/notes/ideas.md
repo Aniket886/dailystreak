@@ -351,3 +351,4 @@
 
 ## 2026-05-14
 - 01:49 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focusing on capturing build logic early in the india-cyber-guard project.
+- 01:49 AM IST: With terralens as a foundation, I'm excited to integrate good investigation notes into the product to make OSINT workflows more efficient and user-friendly.
