@@ -348,3 +348,6 @@
 - 01:45 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focused on building practical tools like GitReverse that turn complexity into actionable insights.
 - 01:46 AM IST: Simplifying security workflows through AI-assisted tooling is key to making the web more secure, one explainable and repeatable process at a time.
 - 01:46 AM IST: Building secure full-stack platforms like Tech Carnival 2K26 Website reinforces my belief that secure by design beats secure by patch, especially when integrating OSINT workflows into developer-facing checklists.
+
+## 2026-05-14
+- 01:49 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focusing on capturing build logic early in the india-cyber-guard project.
