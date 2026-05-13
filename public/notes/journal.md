@@ -925,3 +925,4 @@
 
 ## 2026-05-14
 - 01:49 AM IST: Spent time reflecting on my work at CYBER DRAVIDA, particularly with the india-cyber-guard project, and realized that the most useful tools are the ones people can adopt without friction, which I'll consider as I turn my rough idea into something testable, building on my OSINT Cyber Crime Investigation skills and recent experience as a Tech Carnival 2K26 core organizer.
+- 01:49 AM IST: Checked back in on my work with india-cyber-guard and realized I keep coming back to simplicity, speed, and trust as I build tools to make the web more secure, and my next step is to stay close to the actual user problem.
