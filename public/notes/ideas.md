@@ -358,3 +358,4 @@
 - 01:45 AM IST: Building tools like GitReverse helps me connect the dots between learning, shipping, and trust in AI-assisted developer tooling, where good investigation notes are essential to creating a more secure web.
 - 01:45 AM IST: In building FakeBusters, I realized that meticulous investigation notes are just as crucial as the AI technology itself in creating a robust social media deception detector.
 - 01:45 AM IST: Streamlining OSINT workflows with tools like FakeBusters helps me achieve my goal of making the web more secure by creating workflows that are easy to explain and repeat.
+- 01:45 AM IST: Building tools like ArcMotion's hand-gestures helps me bridge the gap between web development and digital security.
