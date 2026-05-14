@@ -937,3 +937,4 @@
 
 ## 2026-05-15
 - 01:45 AM IST: Spent time reflecting on my work with terralens and I realized that the most useful tools are the ones people can adopt without friction, so my next step is to turn a rough idea into something testable for web security.
+- 01:45 AM IST: Made room to think through my work on GitReverse and realized that good product framing keeps security work from becoming noise, so I'll turn my rough ideas into something testable.
