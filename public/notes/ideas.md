@@ -353,3 +353,6 @@
 - 01:49 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focusing on capturing build logic early in the india-cyber-guard project.
 - 01:49 AM IST: With terralens as a foundation, I'm excited to integrate good investigation notes into the product to make OSINT workflows more efficient and user-friendly.
 - 01:49 AM IST: Designing the Data Wiping Tool with security in mind from the start has reinforced the idea that secure by design beats secure by patch in building practical tools like OSINT workflows.
+
+## 2026-05-15
+- 01:45 AM IST: Building tools like GitReverse helps me connect the dots between learning, shipping, and trust in AI-assisted developer tooling, where good investigation notes are essential to creating a more secure web.
