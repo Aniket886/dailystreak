@@ -951,3 +951,4 @@
 
 ## 2026-05-16
 - 01:33 AM IST: Wrote down a few notes about my experience with the hand-gestures project and I realize the most useful tools are the ones people can adopt without friction, which is why I will keep the scope practical and focus on real-world use as I continue to learn and apply investigation workflow design.
+- 01:33 AM IST: Spent time reflecting on my work with MetaClean and I'm reminded that the technical details feel most valuable when they support a clear outcome, like making the web more secure, and I'm looking forward to keeping my focus on practical, real-world applications of web security fundamentals.
