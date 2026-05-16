@@ -364,3 +364,6 @@
 - 01:33 AM IST: Building tools like MetaClean shows that prioritizing privacy through metadata removal can become a seamless part of the web development process.
 - 01:33 AM IST: Simplifying workflows and prioritizing clear privacy defaults are key to building reliable and secure event platforms like the Tech Carnival 2K26 Website.
 - 01:33 AM IST: Building tools like the Data Wiping Tool helps me simplify web security and make privacy defaults more intuitive for everyone.
+
+## 2026-05-17
+- 01:10 AM IST: Investigation notes are the foundation of a trustworthy product, as seen in the Data Wiping Tool project where learning informs shipping and builds user confidence.
