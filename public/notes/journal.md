@@ -962,3 +962,4 @@
 
 ## 2026-05-17
 - 01:10 AM IST: Revisited the direction for my work in bridging web development with digital security and realized the most useful tools are the ones people can adopt without friction, which I'll keep in mind as I continue to build practical projects like hand-gestures.
+- 01:10 AM IST: Revisited the direction for my work in building practical cybersecurity tools and realized that the most useful ones, like FakeBusters, are those that people can adopt without friction, which is a key takeaway from my experience as a cybersecurity intern and participant in HACKANOVA 2026.
