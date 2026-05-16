@@ -959,3 +959,6 @@
 - 01:33 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, where I'm focusing on bridging web development with digital security, and I feel most accomplished when the technical details of projects like terralens support a clear outcome, which is why I'm looking to document my thinking clearly enough that it can be reused, especially after learning about web security fundamentals and participating in events like HACKANOVA 2026.
 - 01:33 AM IST: Checked back in on my work with terralens and realized that good product framing has been key to keeping security work from becoming noise, so next I'll write the next small improvement before adding new surface area.
 - 01:33 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, particularly on the india-cyber-guard project, where I've been focusing on privacy-focused product design, and I'm reminded that good product framing keeps security work from becoming noise, so next I'll write the next small improvement before adding new surface area.
+
+## 2026-05-17
+- 01:10 AM IST: Revisited the direction for my work in bridging web development with digital security and realized the most useful tools are the ones people can adopt without friction, which I'll keep in mind as I continue to build practical projects like hand-gestures.
